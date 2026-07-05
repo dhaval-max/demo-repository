@@ -2,6 +2,9 @@
 This is my first git repository.
 <br>
 its author - dhaval khatri
-i'll work on this file later 
+<br>
+i'll work on this file later
+<br>
 i want to code everything
+<br>
 im becoming a good coder
